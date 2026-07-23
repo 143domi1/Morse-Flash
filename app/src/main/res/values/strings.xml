@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Morse Flash</string>
+    <string name="licence_note">Licenced under the</string>
+    <string name="licence">GNU General Public License Version 3.0</string>
+    <string name="beforetextfield">Enter the text below and the app will convert it to morse code and flash your flashlight.</string>
+    <string name="morse_code">Morse code: </string>
+</resources>
