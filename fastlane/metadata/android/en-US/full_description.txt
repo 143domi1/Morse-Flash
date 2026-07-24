@@ -1,0 +1,11 @@
+Use your phones flashlight to be able to communicate with others with your phones flashlight/torch.
+Zero ads
+Zero tracking
+Fully free and open source.
+Warning: Do not look straight at the flashlight during communicating with morse code in the app.
+
+Features:
+Dark Mode and White Mode
+Translate to morse code
+Communicating with morse code
+Communicating with your phones flashlight
