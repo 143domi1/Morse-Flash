@@ -43,6 +43,7 @@ render.experimental.xml
 # Keystore files
 *.jks
 *.keystore
+*signing/
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
@@ -50,3 +51,5 @@ google-services.json
 # Android Profiling
 *.hprof
 >>>>>>> 26cbe228b61bef0577eb8b18454a0b8b64432fc9
+
+
