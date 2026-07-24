@@ -2,12 +2,12 @@
 Morse Flash is a free and open source android application which allows the user to send morse code signals using their phone's flashlight. Simply enter your message and the app will convert it to morse code and when you hit play it will start turning on and off the flashlight according to the morse code.
 
 ### Features
-Converts normal text to morse code (no special characters tho)
-Flash the phones flashlight according to the morse code translation
-Works Offline
-No ads
-No tracking
-Supports **DARK** and **WHITE** mode
+1. Converts normal text to morse code (no special characters tho)
+2. Flash the phones flashlight according to the morse code translation
+3. Works Offline
+4. No ads
+5. No tracking
+6. Supports **DARK** and **WHITE** mode
 
 ### Requirements
 Minimum Android version: 8.0 (26)
